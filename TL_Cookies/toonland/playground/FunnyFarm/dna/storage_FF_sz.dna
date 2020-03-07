@@ -1,0 +1,115 @@
+////////////////////////// THE TOON LAND DLC //////////////////////////
+// Filename: storage_FF_sz.dna
+// Created by: Mark/Doctor Leroy (January 31st, 2013)
+////////
+// Description:
+//
+// The storage for Funny Farm safezones only.
+////////
+model "phase_8/models/modules/partyGate_DL" [
+ store_node [ "prop" "prop_party_gate" "" ]
+]
+
+place_model "phase_6/models/golf/golf_hub2" [
+ store_node [ "prop" "funny_farm" "" ]
+]
+
+place_model "phase_6/models/golf/outdoor_zone_entrance" [
+ store_node [ "prop" "prop_outdoor_zone_entrance" "" ]
+]
+
+place_model "phase_8/models/modules/safe_zone_entrance_tunnel_DG" [
+ store_node [ "prop" "prop_safe_zone_tunnel" "" ]
+]
+
+place_model "phase_6/models/golf/chip_dale_enterance" [
+ store_node [ "prop" "prop_chip_dale_entrance" "" ]
+]
+
+place_model "phase_4/models/modules/bank" [
+ store_node [ "toon_landmark" "toon_landmark_FF_bank" "" ]
+]
+
+place_model "phase_4/models/modules/library" [
+ store_node [ "toon_landmark" "toon_landmark_FF_library" "" ]
+]
+
+place_model "phase_4/models/modules/gagShop_TT" [
+ store_node [ "toon_landmark" "toon_landmark_FF_gag_shop" "" ]
+]
+
+place_model "phase_6/models/modules/clothshopDD" [
+ store_node [ "toon_landmark" "toon_landmark_FF_clothes_shop" "" ]
+]
+
+place_model "phase_4/models/props/toontown_central_fountain" [
+ store_node [ "prop" "prop_funny_farm_fountain" "" ]
+]
+
+place_model "phase_5/models/props/safe" [
+ store_node [ "prop" "prop_funny_farm_safe" "" ]
+]
+
+place_model "phase_6/models/golf/picnic_table" [
+ store_node [ "prop" "prop_picnic_table_FF" "" ]
+]
+
+place_model "phase_5.5/models/estate/terrain_fence" [
+ store_node [ "prop" "prop_terrain_fence_FF" "" ]
+]
+
+place_model "phase_3.5/models/modules/facade_e" [
+ store_node [ "prop" "prop_facade_e_FF" "" ]
+]
+
+place_model "phase_3.5/models/modules/facade_a" [
+ store_node [ "prop" "prop_facade_a_FF" "" ]
+]
+
+place_model "phase_5/models/props/wedding_cake" [
+ store_node [ "prop" "prop_wedding_cake_FF" "" ]
+]
+
+place_model "phase_5/models/props/birthday-cake-mod" [
+ store_node [ "prop" "prop_birthday_cake_FF" "" ]
+]
+
+place_model "phase_5/models/props/tnt-mod" [
+ store_node [ "prop" "prop_tnt_FF" "" ]
+]
+
+place_model "phase_5.5/models/estate/garden_mickey_flute" [
+ store_node [ "prop" "prop_garden_mickey_flute_FF" "" ]
+]
+
+place_model "phase_4/models/props/construction_sign" [
+ store_node [ "prop" "prop_construction_sign_FF" "" ]
+]
+
+place_model "phase_5/models/props/gavel.bam" [
+ store_node [ "prop" "prop_gavel_FF" "" ]
+]
+
+place_model "phase_5/models/props/ladder2" [
+ store_node [ "prop" "prop_ladder_FF" "" ]
+]
+
+place_model "phase_5.5/models/estate/sack" [
+ store_node [ "prop" "prop_sack_FF" "" ]
+]
+
+place_model "phase_5.5/models/estate/wheelbarrel" [
+ store_node [ "prop" "prop_wheel_barrel_FF" "" ]
+]
+
+place_model "phase_5.5/models/estate/garden_mickey_shovel" [
+ store_node [ "prop" "prop_garden_mickey_shovel_FF" "" ]
+]
+
+place_model "phase_5.5/models/estate/sand_mound" [
+ store_node [ "prop" "prop_sand_mound_FF" "" ]
+]
+
+place_model "phase_6/models/karting/Kart3_Final" [
+ store_node [ "prop" "prop_kart_final_FF" "" ]
+]
